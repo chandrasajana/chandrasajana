@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @chandrasajana
-- 👀 I’m interested in Dynamo and Phyton
-- 🌱 I’m currently learning Dynamo on Revit especially in the structural field
-- 💞️ I’m looking to collaborate on BIM engineer
+Structural Engineer | BIM Specialist | Complex Geometry Optimization
